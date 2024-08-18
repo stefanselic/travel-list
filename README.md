@@ -1,6 +1,5 @@
 <h1>Travel List</h1>
-<br/>
-<h4>Discover your next adventure with our travel-list app, designed to effortlessly plan, organize, and inspire every journey you take.</h4>
+<h4>Discover your next adventure with the travel-list app, designed to effortlessly plan, organize, and inspire every journey you take!</h4>
 <br/>
 <img width="1429" alt="Bildschirmfoto 2024-08-18 um 20 35 13" src="https://github.com/user-attachments/assets/10b50101-7ca9-4063-a922-ed16bce8ff20">
 
